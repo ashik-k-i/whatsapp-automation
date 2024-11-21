@@ -10,3 +10,6 @@
 - npm install
 
 - npm start
+
+
+### Now Scan QrCode With Your WhatsApp Linked Devices
