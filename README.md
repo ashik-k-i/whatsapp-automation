@@ -13,3 +13,6 @@
 
 
 ### Now Scan QrCode With Your WhatsApp Linked Devices
+
+
+- Now "Hello" From Your Number To Any Chat , It will Send "Hii" Automatically
