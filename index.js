@@ -40,9 +40,9 @@ async function connectToWhatsApp () {
             console.log('Received message:', messageContent, 'fromMe:', isFromMe, 'ID : ', remoteJid);
     
             // Check if the message is from yourself and matches "Hello"
-            if (isFromMe && messageContent.toLowerCase() === 'hello') {
+            if (isFromMe && messageContent.toLowerCase() === '.bot') {
                 console.log('Sending reply to myself:', remoteJid);
-                await sock.sendMessage(remoteJid, { text: 'Hii' }); // Send "Hii" in response to "Hello"
+                await sock.sendMessage(remoteJid, { text: 'Bot Is Running!' }); // Send "Hii" in response to "Hello"
             }
         } catch (error) {
             console.error('Error handling message:', error);
