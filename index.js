@@ -54,7 +54,7 @@ async function connectToWhatsApp () {
 
 async function sendMessage(sock) {
     try {
-        const id = '918139050814@s.whatsapp.net'; // Replace with the recipient's WhatsApp ID
+        const id = '918714414424@s.whatsapp.net'; // Replace with the recipient's WhatsApp ID
         const sentMsg  = await sock.sendMessage(id, { text: 'Bot Started !' })
         console.log('Start Msg sent successfully!');
     } catch (error) {
