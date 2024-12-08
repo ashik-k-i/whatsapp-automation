@@ -15,4 +15,4 @@
 ### Now Scan QrCode With Your WhatsApp Linked Devices
 
 
-- Now ".bot" From Your Number To Any Chat , It will Send "Bot Started" Automatically
+- Now send ".bot" From Your Number To Any Chat , It will Send "Bot Started!" Automatically
