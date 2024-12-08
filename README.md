@@ -1,6 +1,6 @@
 # WhatsApp Automation
 
-
+![Wa-Automation Image](https://github.com/ashik-k-i/whatsapp-automation/blob/c3cee0c3ba4f1ea8400d3dbd5832aaedc86ec119/wa-automation.png "Wa Automation")
 
 ### Simple WhatsApp Bot For Business and Automation
 
